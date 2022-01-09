@@ -26,12 +26,12 @@ Advantages of refactoring code are streamlining the overall script and decreasin
 
 The pros and cons of refactoring the original VBA script posed challenges such as mixing up the order of operation of the original steps which caused the script to pull partial data instead for providing an output of all 12 tickers in the dataset. Subsequently, once the order of operation was corrected in the refactored VBA script performance improved and the runtime was faster, than the original runtime, when analyzing the data.
 
-    **Original Runtime vs Refactored Runtime**
-    
-    | Year | Original Runtime| Refactored Runtime
-    | ------:| -----------:|
-    | 2017 | 0.65625 | 0.625 |
-    | 2018 | 0.640625 | 0.6171875 |
+**Original Runtime vs Refactored Runtime**
+
+| Year | Original Runtime| Refactored Runtime
+| ------ | ----------- | ------| 
+| 2017 | 0.65625 | 0.625 |
+| 2018 | 0.640625 | 0.6171875 |
     
 ## Documents:
 
