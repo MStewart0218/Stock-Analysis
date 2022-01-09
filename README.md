@@ -18,9 +18,9 @@ The analysis was performed by creating a VBA script to analyze Total stock Volum
 
 The VBA script highlighted the following ticker performance form 2017 to 2018 while considering the original stock "DQ" Steve's parents wanted to invest in:
 
-•	Ticker "ENPH" Total Daily Return increased by $385,701,400 from 2017 to 2018. "ENPH" return percentage decreased from 129.5% in 2017 to 81.9% in 2018. "ENPH" outperformed ticker "DQ" in 2018 making this a better stock for Steve's parents to invest in and gain positive return on investment.
+    •	Ticker "ENPH" Total Daily Return increased by $385,701,400 from 2017 to 2018. "ENPH" return percentage decreased from 129.5% in 2017 to 81.9% in 2018. "ENPH"        outperformed ticker "DQ" in 2018 making this a better stock for Steve's parents to invest in and gain positive return on investment.
 
-•	Ticker "RUN" Total Daily Return increased by $235,075,800 from 2017 to 2018. "RUN" return percentage increased from 5.5% in 2017 to 84.0% in 2018. "RUN" outperformed tickers "DQ"  and "ENPH" in 2018 making this the best stock for Steve's parents to invest in and gain positive return on investment.
+    •	Ticker "RUN" Total Daily Return increased by $235,075,800 from 2017 to 2018. "RUN" return percentage increased from 5.5% in 2017 to 84.0% in 2018. "RUN" outperformed  tickers "DQ"  and "ENPH" in 2018 making this the best stock for Steve's parents to invest in and gain positive return on investment.
 
 Advantages of refactoring code are streamlining the overall script and decreasing the script run-time to improve analysis performance. One disadvantage of refactoring code was the possibly of removing functionality of the code: consequently, creating errors and erroneous output.
 
