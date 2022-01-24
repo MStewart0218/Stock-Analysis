@@ -35,7 +35,7 @@ The pros and cons of refactoring the original VBA script posed challenges such a
 | 2017 | 0.65625 | 0.1582031 |
 | 2018 | 0.640625 | 0.1269531 |
 
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/95396477/148671393-63f8749e-3321-4df4-9640-79cfe5ac50b9.png)
+![VBA_Challenge_2017](![image](https://user-images.githubusercontent.com/95396477/150775259-69d63886-d7b4-45de-b49f-8860ec9faa2c.png)
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/95396477/148671398-818b1de8-2e57-46d6-8218-d2d2c72cccd4.png)
 
