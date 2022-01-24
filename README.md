@@ -37,7 +37,7 @@ The pros and cons of refactoring the original VBA script posed challenges such a
 
 ![VBA_Challenge_2017](![image](https://user-images.githubusercontent.com/95396477/150775259-69d63886-d7b4-45de-b49f-8860ec9faa2c.png)
 
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/95396477/148671398-818b1de8-2e57-46d6-8218-d2d2c72cccd4.png)
+![VBA_Challenge_2018](![image](https://user-images.githubusercontent.com/95396477/150775438-46b76de6-307a-4694-94c4-3e02302d796e.png)
 
 ## Documents:
 
